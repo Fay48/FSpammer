@@ -1,6 +1,7 @@
 # FSpammer
-SPAM SMS &amp; CALL
 ![Image of FSpammer](https://github.com/Fay48/FSpammer/raw/master/ss.png)
+
+SPAM SMS &amp; CALL
 * SPAM CALL
 * SPAM SMS MAXStream (Tsel Only)
 * SPAM SMS OLX
